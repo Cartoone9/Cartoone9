@@ -18,7 +18,13 @@ Linux tooling, and homelab infrastructure.
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+## Environment
+
+![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=white)
+![Kitty](https://img.shields.io/badge/Kitty-000000?logo=gnometerminal&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?logo=hyprland&logoColor=black)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=white)
 
 ## Contact
 
