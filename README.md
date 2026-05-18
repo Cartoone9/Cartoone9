@@ -11,6 +11,7 @@ Linux tooling, and homelab infrastructure.
 - Go API gateway with JWT auth, IP/UID rate limiting, and WebSocket proxying
 - Chat service for a Discord-like microservices app: [`ft_transcendence`](https://github.com/vantavoids/ft_transcendence)
 - Neovim plugin: [`pretty-comment.nvim`](https://github.com/Cartoone9/pretty-comment.nvim)
+- Terminal dashboard for monitoring Git repositories: [`check-repo`](https://github.com/Cartoone9/check-repo)
 
 ## Stack
 
