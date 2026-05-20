@@ -29,5 +29,4 @@ Linux tooling, and homelab infrastructure.
 
 ## Contact
 
-- [cartoone.dev](https://cartoone.dev)
 - contact@cartoone.dev
