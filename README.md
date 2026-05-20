@@ -1,15 +1,12 @@
 # Cartoone
 
-Backend and infrastructure, mostly in Go and C/C++. Currently building a
-microservices platform at 42 Paris.
+Backend and infrastructure, mostly in Go and C/C++. Currently building a microservices platform at 42 Paris.
 
-I lean toward systems-level work: API gateways, service architecture,
-Linux tooling, and homelab infrastructure.
+Interested in backend, infrastructure, networking, Linux tooling, and homelab setups.
 
 ## What I'm working on
 
-- Go API gateway with JWT auth, IP/UID rate limiting, and WebSocket proxying
-- Chat service for a Discord-like microservices app: [`ft_transcendence`](https://github.com/vantavoids/ft_transcendence)
+- Go API gateway with JWT auth, IP/UID rate limiting, and WebSocket proxying for a chat app: [`ft_transcendence`](https://github.com/vantavoids/ft_transcendence)
 - Neovim plugin: [`pretty-comment.nvim`](https://github.com/Cartoone9/pretty-comment.nvim)
 - Terminal dashboard for monitoring Git repositories: [`check-repo`](https://github.com/Cartoone9/check-repo)
 
